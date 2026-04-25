@@ -18,7 +18,7 @@ Unlisted is an open source tool that scraps YouTube looking for unlisted video f
 # Installation
 
 ``` bash
-git clone https://github.com/ramsy0dev/unlisted
+git clone https://github.com/dontmindaditya/unlisted
 cd unlisted
 poetry install
 poetry shell
@@ -34,7 +34,7 @@ Using Unlisted is fairly simple as it's comes with only two commands wich you ca
     / / \ \ '_ \| | / __| __/ _ \/ _` |
     \ \_/ / | | | | \__ \ ||  __/ (_| |
      \___/|_| |_|_|_|___/\__\___|\__,_| Version 0.1.3
-                    made by `ramsy0dev`
+                    made by `dontmindaditya`
 
 
  Usage: unlisted [OPTIONS] COMMAND [ARGS]...
@@ -59,7 +59,7 @@ The command `dig` is the primarly command in Unlisted, with it you can initiat a
     / / \ \ '_ \| | / __| __/ _ \/ _` |
     \ \_/ / | | | | \__ \ ||  __/ (_| |
      \___/|_| |_|_|_|___/\__\___|\__,_| Version 0.1.3
-                    made by `ramsy0dev`
+                    made by `dontmindaditya`
 
 
  Usage: unlisted dig [OPTIONS]
