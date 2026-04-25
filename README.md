@@ -20,8 +20,8 @@ Unlisted is an open source tool that scraps YouTube looking for unlisted video f
 ``` bash
 git clone https://github.com/ramsy0dev/unlisted
 cd unlisted
-poetry build
-pip install ./dist/unlisted-*.tar.gz (this will go ahead and download all the dependecies and unlisted to your system so you can use it as command)
+poetry install
+poetry shell
 ```
 
 # Usage
