@@ -1,7 +1,6 @@
 # ------------- errors messages ---------------
 # NOTE: Please do not change any of the following
-# error messages unless their was a typo or some
-# of them where hard to understand by the users
+
 
 OUTPUT_FILE_PATH_NOT_FOUND = "[bold red][ - ] [bold white]The given output file path doesn't not exists[bold white]. Please change it and try again"
 
