@@ -10,7 +10,7 @@ from rich.console import Console
 
 from unlisted import constants
 
-# Log messages
+
 from unlisted.log_msgs import info, errors
 
 # Dig
